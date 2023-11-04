@@ -1,0 +1,18 @@
+{
+  "name": "workaholicbackend",
+  "version": "1.0.0",
+  "description": "Workaholic is a website which allows users to keep track of their incomplete work privately. It allows new users to sign in and existing users to log in to their profile. Inter-user privacy of data is taken care of. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.7.1",
+    "mongoose": "^6.9.1"
+  }
+}
